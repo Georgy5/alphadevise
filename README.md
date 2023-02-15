@@ -1,24 +1,16 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Devise works with Turbo now!
+[Integration with Hotwire/Turbo was added to devise](https://github.com/heartcombo/devise/pull/5548)
 
-Things you may want to cover:
+### This repository
+Trying out Devise now working OOB (out of box) with Rails 7,
+I just tried it out using [Deanin's YouTube video](https://www.youtube.com/watch?v=HX4XaDmAovM)
 
-* Ruby version
+Links:\
+https://www.youtube.com/watch?v=HX4XaDmAovM
 
-* System dependencies
+Turbo Integration pull request: https://github.com/heartcombo/devise/pull/5548
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Ruby version 3.1.2
+* Rails version 7.0.4
